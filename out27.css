@@ -1,0 +1,7 @@
+img{max-width: 100%;}
+
+main{
+    display: flex;
+    flex-wrap: wrap;}
+
+div{width: 47%;}

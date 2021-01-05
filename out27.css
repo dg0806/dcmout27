@@ -1,7 +1,12 @@
 img{max-width: 100%;}
 
-main{
+main, ul{
     display: flex;
     flex-wrap: wrap;}
 
 div{width: 100%;}
+
+li.jogador {
+    width: 30%;
+}
+
